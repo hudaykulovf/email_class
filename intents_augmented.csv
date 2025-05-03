@@ -1,0 +1,538 @@
+text,label
+"Could you look into why No one is responding to my complaint?",Complaint
+"Still waiting for a reply regarding my issue: No one is responding to my complaint (variation 4).",Complaint
+"I'm writing to complain about the fact that No one is responding to my complaint (variation 4).",Complaint
+"My problem is that No one is responding to my complaint.",Complaint
+"Can someone please address this? No one is responding to my complaint (variation 3).",Complaint
+"I haven't heard back about my complaint: No one is responding to my complaint (variation 2).",Complaint
+"Is anyone looking into my complaint? No one is responding to my complaint (variation 1).",Complaint
+"Unfortunately, No one is responding to my complaint (variation 2).",Complaint
+"There seems to be a problem: No one is responding to my complaint.",Complaint
+"This situation is unacceptable: No one is responding to my complaint (variation 3).",Complaint
+"I need to report an issue: No one is responding to my complaint (variation 1).",Complaint
+"Regarding my recent experience: No one is responding to my complaint (variation 4).",Complaint
+"I'm dissatisfied because No one is responding to my complaint.",Complaint
+"Could we schedule a time to talk about this? Can we schedule a call (variation 3).",Meeting Request
+"Let's set up a call to discuss. Can we schedule a call.",Meeting Request
+"Need to schedule a discussion. Can we schedule a call (variation 2).",Meeting Request
+"Proposing a meeting: Can we schedule a call (variation 4).",Meeting Request
+"I'd like to arrange a meeting regarding: Can we schedule a call (variation 1).",Meeting Request
+"Can we find a time to connect? Can we schedule a call (variation 3).",Meeting Request
+"Are you available for a quick sync? Can we schedule a call.",Meeting Request
+"What's your availability for a chat? Can we schedule a call (variation 2).",Meeting Request
+"Just wanted to say thanks: I appreciate the help (variation 3).",General Feedback
+"Your help was much appreciated! I appreciate the help.",General Feedback
+"Positive feedback regarding: I appreciate the help (variation 4).",General Feedback
+"Grateful for your help. I appreciate the help (variation 2).",General Feedback
+"Thanks again for everything. I appreciate the help (variation 1).",General Feedback
+"Really value your assistance with this. I appreciate the help (variation 3).",General Feedback
+"Just wanted to say thanks: I appreciate the help (variation 4).",General Feedback
+"Your help was much appreciated! I appreciate the help (variation 2).",General Feedback
+"I am requesting a refund because I want a refund (variation 1).",Complaint
+"Please process a reimbursement; I want a refund.",Complaint
+"My problem is that I want a refund (variation 2).",Complaint
+"I require my money back since I want a refund (variation 3).",Complaint
+"I'm writing to complain about the fact that I want a refund.",Complaint
+"This situation is unacceptable: I want a refund (variation 4).",Complaint
+"Could you look into why I want a refund (variation 1).",Complaint
+"I'm dissatisfied because I want a refund (variation 2).",Complaint
+"Checking the status of my shipment: Has my package shipped yet (variation 3).",Order Update
+"Has my item been dispatched yet? Has my package shipped yet.",Order Update
+"Confirmation needed: Has the order been sent? Has my package shipped yet (variation 4).",Order Update
+"Has shipment occurred for my order? Has my package shipped yet (variation 2).",Order Update
+"Checking if my package is on its way. Has my package shipped yet (variation 1).",Order Update
+"Could I get an update on my order? Has my package shipped yet (variation 3).",Order Update
+"Any news on when my order will arrive? Has my package shipped yet.",Order Update
+"Following up on my order status. Has my package shipped yet (variation 4).",Order Update
+"This service level is poor: This is unacceptable service (variation 2).",Complaint
+"I'm quite unhappy with this: This is unacceptable service.",Complaint
+"This experience was very unsatisfactory: This is unacceptable service (variation 4).",Complaint
+"I need to report an issue: This is unacceptable service (variation 3).",Complaint
+"Unfortunately, This is unacceptable service (variation 1).",Complaint
+"I'm dissatisfied because This is unacceptable service (variation 2).",Complaint
+"Can someone please address this? This is unacceptable service.",Complaint
+"There seems to be a problem: This is unacceptable service (variation 4).",Complaint
+"Great job on this: Thanks for resolving the issue (variation 1).",General Feedback
+"Satisfied with the resolution. Thanks for resolving the issue.",General Feedback
+"Appreciate you resolving this quickly. Thanks for resolving the issue (variation 4).",General Feedback
+"Glad the issue is now fixed. Thanks for resolving the issue (variation 3).",General Feedback
+"Things worked out well, thanks. Thanks for resolving the issue (variation 2).",General Feedback
+"Thanks for sorting out the problem. Thanks for resolving the issue (variation 1).",General Feedback
+"Positive feedback regarding: Thanks for resolving the issue.",General Feedback
+"Thank you for the excellent support. Thanks for resolving the issue (variation 4).",General Feedback
+"I'm pleased with the outcome: I’m happy with the result (variation 2).",General Feedback
+"Excellent result! I’m happy with the result.",General Feedback
+"Very satisfied with how this turned out. I’m happy with the result (variation 1).",General Feedback
+"Happy with the service provided. I’m happy with the result (variation 4).",General Feedback
+"Top-notch service! I’m happy with the result (variation 3).",General Feedback
+"Great job on this: I’m happy with the result (variation 2).",General Feedback
+"Satisfied with the resolution. I’m happy with the result.",General Feedback
+"Kudos to the team for: I’m happy with the result (variation 1).",General Feedback
+"Need an update on delivery: Where is my order (variation 2).",Order Update
+"Where is my package currently? Where is my order.",Order Update
+"What's the current location of my order? Where is my order (variation 3).",Order Update
+"Can you tell me the status of my delivery? Where is my order (variation 4).",Order Update
+"Requesting the latest update on my order. Where is my order (variation 1).",Order Update
+"Checking the status of my shipment: Where is my order (variation 2).",Order Update
+"Any news on when my order will arrive? Where is my order.",Order Update
+"Inquiring about order number [replace with placeholder]: Where is my order (variation 3).",Order Update
+"Awaiting delivery of my order. Still waiting for delivery (variation 2).",Order Update
+"Still haven't received my package. Still waiting for delivery.",Order Update
+"When can I expect the delivery? Still waiting for delivery (variation 1).",Order Update
+"Need an update on delivery: Still waiting for delivery (variation 4).",Order Update
+"Following up on my order status. Still waiting for delivery (variation 3).",Order Update
+"Can you provide the shipping details? Still waiting for delivery (variation 2).",Order Update
+"Could I get an update on my order? Still waiting for delivery.",Order Update
+"Where is my package currently? Still waiting for delivery (variation 1).",Order Update
+"Shall we use Zoom for our discussion? Let’s discuss this over Zoom (variation 3).",Meeting Request
+"Let's connect via Zoom. Let’s discuss this over Zoom.",Meeting Request
+"Can we have a Zoom call? Let’s discuss this over Zoom (variation 2).",Meeting Request
+"I'd like to arrange a meeting regarding: Let’s discuss this over Zoom (variation 1).",Meeting Request
+"Proposing a meeting: Let’s discuss this over Zoom (variation 4).",Meeting Request
+"Could we schedule a time to talk about this? Let’s discuss this over Zoom (variation 3).",Meeting Request
+"Are you available for a quick sync? Let’s discuss this over Zoom.",Meeting Request
+"Need to schedule a discussion. Let’s discuss this over Zoom (variation 2).",Meeting Request
+"I'm quite unhappy with this: I’m very disappointed (variation 4).",Complaint
+"This experience was very unsatisfactory: I’m very disappointed.",Complaint
+"My problem is that I’m very disappointed (variation 1).",Complaint
+"This service level is poor: I’m very disappointed (variation 3).",Complaint
+"Unfortunately, I’m very disappointed (variation 2).",Complaint
+"I need to report an issue: I’m very disappointed.",Complaint
+"Could you look into why I’m very disappointed (variation 4).",Complaint
+"Regarding my recent experience: I’m very disappointed (variation 1).",Complaint
+"Could I get an update on my order? I need a status update on my shipment (variation 4).",Order Update
+"Requesting the latest update on my order. I need a status update on my shipment.",Order Update
+"What's the current location of my order? I need a status update on my shipment (variation 2).",Order Update
+"Can you tell me the status of my delivery? I need a status update on my shipment (variation 3).",Order Update
+"Checking the status of my shipment: I need a status update on my shipment (variation 1).",Order Update
+"Following up on my order status. I need a status update on my shipment.",Order Update
+"Need an update on delivery: I need a status update on my shipment (variation 4).",Order Update
+"Any news on when my order will arrive? I need a status update on my shipment (variation 2).",Order Update
+"Is tomorrow a good day to meet? Can we meet tomorrow (variation 3).",Meeting Request
+"Checking availability for tomorrow: Can we meet tomorrow.",Meeting Request
+"Can we aim for a meeting tomorrow? Can we meet tomorrow (variation 2).",Meeting Request
+"Let's set up a call to discuss. Can we meet tomorrow (variation 1).",Meeting Request
+"What's your availability for a chat? Can we meet tomorrow (variation 4).",Meeting Request
+"Could we schedule a time to talk about this? Can we meet tomorrow (variation 3).",Meeting Request
+"Are you available for a quick sync? Can we meet tomorrow.",Meeting Request
+"Proposing a meeting: Can we meet tomorrow (variation 2).",Meeting Request
+"Confirming the details for our meeting: Please confirm our appointment (variation 4).",Meeting Request
+"Just double-checking our appointment: Please confirm our appointment.",Meeting Request
+"Please confirm you're still available: Please confirm our appointment (variation 1).",Meeting Request
+"Confirming our upcoming meeting: Please confirm our appointment (variation 2).",Meeting Request
+"Can we find a time to connect? Please confirm our appointment (variation 3).",Meeting Request
+"Need to schedule a discussion. Please confirm our appointment.",Meeting Request
+"I'd like to arrange a meeting regarding: Please confirm our appointment (variation 4).",Meeting Request
+"What's your availability for a chat? Please confirm our appointment (variation 1).",Meeting Request
+"Really value your assistance with this. Thank you for your support (variation 3).",General Feedback
+"Grateful for your help. Thank you for your support.",General Feedback
+"Thanks again for everything. Thank you for your support (variation 4).",General Feedback
+"Just wanted to say thanks: Thank you for your support (variation 2).",General Feedback
+"Your help was much appreciated! Thank you for your support (variation 1).",General Feedback
+"Positive feedback regarding: Thank you for your support (variation 3).",General Feedback
+"Thank you for the excellent support. Thank you for your support.",General Feedback
+"Kudos to the team for: Thank you for your support (variation 4).",General Feedback
+"Checking if you're free to meet. Are you free for a meeting (variation 3).",Meeting Request
+"What time works best for you? Are you free for a meeting.",Meeting Request
+"Do you have any openings for a meeting? Are you free for a meeting (variation 2).",Meeting Request
+"Are you available for a quick sync? Are you free for a meeting (variation 1).",Meeting Request
+"Can we find a time to connect? Are you free for a meeting (variation 4).",Meeting Request
+"Let's set up a call to discuss. Are you free for a meeting (variation 3).",Meeting Request
+"Need to schedule a discussion. Are you free for a meeting.",Meeting Request
+"I'd like to arrange a meeting regarding: Are you free for a meeting (variation 2).",Meeting Request
+"The item I received was defective: The item arrived broken (variation 2).",Complaint
+"There's damage to the product: The item arrived broken.",Complaint
+"It arrived damaged: The item arrived broken (variation 3).",Complaint
+"This situation is unacceptable: The item arrived broken (variation 1).",Complaint
+"Could you look into why The item arrived broken (variation 4).",Complaint
+"I'm writing to complain about the fact that The item arrived broken (variation 2).",Complaint
+"My problem is that The item arrived broken.",Complaint
+"I'm dissatisfied because The item arrived broken (variation 3).",Complaint
+"Please provide the tracking code for my shipment. Please provide the tracking number (variation 3).",Order Update
+"Need the tracking info, please. Please provide the tracking number.",Order Update
+"Could you send me the tracking number for my order? Please provide the tracking number (variation 2).",Order Update
+"Requesting tracking information for: Please provide the tracking number (variation 1).",Order Update
+"Can you provide the shipping details? Please provide the tracking number (variation 4).",Order Update
+"Checking the status of my shipment: Please provide the tracking number (variation 3).",Order Update
+"Need an update on delivery: Please provide the tracking number.",Order Update
+"Following up on my order status. Please provide the tracking number (variation 2).",Order Update
+"Top-notch service! Great service overall (variation 3).",General Feedback
+"Excellent result! Great service overall.",General Feedback
+"Happy with the service provided. Great service overall (variation 4).",General Feedback
+"Very satisfied with how this turned out. Great service overall (variation 2).",General Feedback
+"I'm pleased with the outcome: Great service overall (variation 1).",General Feedback
+"Great job on this: Great service overall (variation 3).",General Feedback
+"Positive feedback regarding: Great service overall.",General Feedback
+"Kudos to the team for: Great service overall (variation 4).",General Feedback
+"Could you look into why No one is responding to my complaint? (v2)",Complaint
+"Still waiting for a reply regarding my issue: No one is responding to my complaint.",Complaint
+"I'm writing to complain about the fact that No one is responding to my complaint (variation 1).",Complaint
+"My problem is that No one is responding to my complaint (v3)",Complaint
+"Can someone please address this? No one is responding to my complaint.",Complaint
+"I haven't heard back about my complaint: No one is responding to my complaint (variation 4).",Complaint
+"Is anyone looking into my complaint? No one is responding to my complaint (variation 2).",Complaint
+"Unfortunately, No one is responding to my complaint (variation 1).",Complaint
+"There seems to be a problem: No one is responding to my complaint (v4)",Complaint
+"This situation is unacceptable: No one is responding to my complaint.",Complaint
+"I need to report an issue: No one is responding to my complaint (variation 3).",Complaint
+"Regarding my recent experience: No one is responding to my complaint (variation 2).",Complaint
+"I'm dissatisfied because No one is responding to my complaint (v1)",Complaint
+"Could we schedule a time to talk about this? Can we schedule a call.",Meeting Request
+"Let's set up a call to discuss. Can we schedule a call (variation 1).",Meeting Request
+"Need to schedule a discussion. Can we schedule a call (variation 4).",Meeting Request
+"Proposing a meeting: Can we schedule a call.",Meeting Request
+"I'd like to arrange a meeting regarding: Can we schedule a call (variation 3).",Meeting Request
+"Can we find a time to connect? Can we schedule a call (variation 2).",Meeting Request
+"Are you available for a quick sync? Can we schedule a call (v4)",Meeting Request
+"What's your availability for a chat? Can we schedule a call (variation 1).",Meeting Request
+"Just wanted to say thanks: I appreciate the help.",General Feedback
+"Your help was much appreciated! I appreciate the help (variation 1).",General Feedback
+"Positive feedback regarding: I appreciate the help.",General Feedback
+"Grateful for your help. I appreciate the help (variation 4).",General Feedback
+"Thanks again for everything. I appreciate the help (variation 3).",General Feedback
+"Really value your assistance with this. I appreciate the help (variation 2).",General Feedback
+"Just wanted to say thanks: I appreciate the help (v1)",General Feedback
+"Your help was much appreciated! I appreciate the help (variation 4).",General Feedback
+"I am requesting a refund because I want a refund (variation 2).",Complaint
+"Please process a reimbursement; I want a refund (v3)",Complaint
+"My problem is that I want a refund.",Complaint
+"I require my money back since I want a refund (variation 4).",Complaint
+"I'm writing to complain about the fact that I want a refund (variation 1).",Complaint
+"This situation is unacceptable: I want a refund.",Complaint
+"Could you look into why I want a refund (variation 2).",Complaint
+"I'm dissatisfied because I want a refund (variation 3).",Complaint
+"Checking the status of my shipment: Has my package shipped yet.",Order Update
+"Has my item been dispatched yet? Has my package shipped yet (variation 1).",Order Update
+"Confirmation needed: Has the order been sent? Has my package shipped yet.",Order Update
+"Has shipment occurred for my order? Has my package shipped yet (variation 3).",Order Update
+"Checking if my package is on its way. Has my package shipped yet (variation 4).",Order Update
+"Could I get an update on my order? Has my package shipped yet.",Order Update
+"Any news on when my order will arrive? Has my package shipped yet (variation 2).",Order Update
+"Following up on my order status. Has my package shipped yet (variation 1).",Order Update
+"This service level is poor: This is unacceptable service (variation 4).",Complaint
+"I'm quite unhappy with this: This is unacceptable service (v1)",Complaint
+"This experience was very unsatisfactory: This is unacceptable service.",Complaint
+"I need to report an issue: This is unacceptable service (variation 2).",Complaint
+"Unfortunately, This is unacceptable service (variation 3).",Complaint
+"I'm dissatisfied because This is unacceptable service.",Complaint
+"Can someone please address this? This is unacceptable service (variation 1).",Complaint
+"There seems to be a problem: This is unacceptable service (variation 2).",Complaint
+"Great job on this: Thanks for resolving the issue (variation 4).",General Feedback
+"Satisfied with the resolution. Thanks for resolving the issue (v2)",General Feedback
+"Appreciate you resolving this quickly. Thanks for resolving the issue.",General Feedback
+"Glad the issue is now fixed. Thanks for resolving the issue (variation 1).",General Feedback
+"Things worked out well, thanks. Thanks for resolving the issue (variation 3).",General Feedback
+"Thanks for sorting out the problem. Thanks for resolving the issue.",General Feedback
+"Positive feedback regarding: Thanks for resolving the issue (variation 2).",General Feedback
+"Thank you for the excellent support. Thanks for resolving the issue (variation 1).",General Feedback
+"I'm pleased with the outcome: I’m happy with the result.",General Feedback
+"Excellent result! I’m happy with the result (variation 1).",General Feedback
+"Very satisfied with how this turned out. I’m happy with the result (variation 4).",General Feedback
+"Happy with the service provided. I’m happy with the result.",General Feedback
+"Top-notch service! I’m happy with the result (variation 2).",General Feedback
+"Great job on this: I’m happy with the result (variation 3).",General Feedback
+"Satisfied with the resolution. I’m happy with the result (v1)",General Feedback
+"Kudos to the team for: I’m happy with the result (variation 4).",General Feedback
+"Need an update on delivery: Where is my order.",Order Update
+"Where is my package currently? Where is my order (variation 1).",Order Update
+"What's the current location of my order? Where is my order.",Order Update
+"Can you tell me the status of my delivery? Where is my order (variation 2).",Order Update
+"Requesting the latest update on my order. Where is my order (variation 3).",Order Update
+"Checking the status of my shipment: Where is my order.",Order Update
+"Any news on when my order will arrive? Where is my order (variation 4).",Order Update
+"Inquiring about order number [replace with placeholder]: Where is my order (variation 1).",Order Update
+"Awaiting delivery of my order. Still waiting for delivery.",Order Update
+"Still haven't received my package. Still waiting for delivery (variation 1).",Order Update
+"When can I expect the delivery? Still waiting for delivery (variation 4).",Order Update
+"Need an update on delivery: Still waiting for delivery.",Order Update
+"Following up on my order status. Still waiting for delivery (variation 2).",Order Update
+"Can you provide the shipping details? Still waiting for delivery (variation 3).",Order Update
+"Could I get an update on my order? Still waiting for delivery (v1)",Order Update
+"Where is my package currently? Still waiting for delivery (variation 4).",Order Update
+"Shall we use Zoom for our discussion? Let’s discuss this over Zoom.",Meeting Request
+"Let's connect via Zoom. Let’s discuss this over Zoom (variation 1).",Meeting Request
+"Can we have a Zoom call? Let’s discuss this over Zoom (variation 4).",Meeting Request
+"I'd like to arrange a meeting regarding: Let’s discuss this over Zoom.",Meeting Request
+"Proposing a meeting: Let’s discuss this over Zoom (variation 2).",Meeting Request
+"Could we schedule a time to talk about this? Let’s discuss this over Zoom (variation 1).",Meeting Request
+"Are you available for a quick sync? Let’s discuss this over Zoom (v4)",Meeting Request
+"Need to schedule a discussion. Let’s discuss this over Zoom.",Meeting Request
+"I'm quite unhappy with this: I’m very disappointed.",Complaint
+"This experience was very unsatisfactory: I’m very disappointed (variation 1).",Complaint
+"My problem is that I’m very disappointed (v3)",Complaint
+"This service level is poor: I’m very disappointed (variation 2).",Complaint
+"Unfortunately, I’m very disappointed.",Complaint
+"I need to report an issue: I’m very disappointed (variation 4).",Complaint
+"Could you look into why I’m very disappointed (variation 1).",Complaint
+"Regarding my recent experience: I’m very disappointed (v3)",Complaint
+"Could I get an update on my order? I need a status update on my shipment.",Order Update
+"Requesting the latest update on my order. I need a status update on my shipment (variation 1).",Order Update
+"What's the current location of my order? I need a status update on my shipment (variation 3).",Order Update
+"Can you tell me the status of my delivery? I need a status update on my shipment.",Order Update
+"Checking the status of my shipment: I need a status update on my shipment (variation 2).",Order Update
+"Following up on my order status. I need a status update on my shipment (v4)",Order Update
+"Need an update on delivery: I need a status update on my shipment (variation 1).",Order Update
+"Any news on when my order will arrive? I need a status update on my shipment (variation 3).",Order Update
+"Is tomorrow a good day to meet? Can we meet tomorrow.",Meeting Request
+"Checking availability for tomorrow: Can we meet tomorrow (variation 1).",Meeting Request
+"Can we aim for a meeting tomorrow? Can we meet tomorrow (variation 4).",Meeting Request
+"Let's set up a call to discuss. Can we meet tomorrow.",Meeting Request
+"What's your availability for a chat? Can we meet tomorrow (variation 2).",Meeting Request
+"Could we schedule a time to talk about this? Can we meet tomorrow (variation 1).",Meeting Request
+"Are you available for a quick sync? Can we meet tomorrow (v4)",Meeting Request
+"Proposing a meeting: Can we meet tomorrow.",Meeting Request
+"Confirming the details for our meeting: Please confirm our appointment.",Meeting Request
+"Just double-checking our appointment: Please confirm our appointment (variation 1).",Meeting Request
+"Please confirm you're still available: Please confirm our appointment (variation 2).",Meeting Request
+"Confirming our upcoming meeting: Please confirm our appointment (variation 3).",Meeting Request
+"Can we find a time to connect? Please confirm our appointment.",Meeting Request
+"Need to schedule a discussion. Please confirm our appointment (variation 4).",Meeting Request
+"I'd like to arrange a meeting regarding: Please confirm our appointment (variation 1).",Meeting Request
+"What's your availability for a chat? Please confirm our appointment (v2)",Meeting Request
+"Really value your assistance with this. Thank you for your support.",General Feedback
+"Grateful for your help. Thank you for your support (variation 1).",General Feedback
+"Thanks again for everything. Thank you for your support.",General Feedback
+"Just wanted to say thanks: Thank you for your support (variation 4).",General Feedback
+"Your help was much appreciated! Thank you for your support (variation 3).",General Feedback
+"Positive feedback regarding: Thank you for your support (variation 2).",General Feedback
+"Thank you for the excellent support. Thank you for your support (v1)",General Feedback
+"Kudos to the team for: Thank you for your support.",General Feedback
+"Checking if you're free to meet. Are you free for a meeting.",Meeting Request
+"What time works best for you? Are you free for a meeting (variation 1).",Meeting Request
+"Do you have any openings for a meeting? Are you free for a meeting (variation 4).",Meeting Request
+"Are you available for a quick sync? Are you free for a meeting.",Meeting Request
+"Can we find a time to connect? Are you free for a meeting (variation 2).",Meeting Request
+"Let's set up a call to discuss. Are you free for a meeting (variation 3).",Meeting Request
+"Need to schedule a discussion. Are you free for a meeting (v1)",Meeting Request
+"I'd like to arrange a meeting regarding: Are you free for a meeting (variation 4).",Meeting Request
+"The item I received was defective: The item arrived broken.",Complaint
+"There's damage to the product: The item arrived broken (variation 1).",Complaint
+"It arrived damaged: The item arrived broken.",Complaint
+"This situation is unacceptable: The item arrived broken (variation 4).",Complaint
+"Could you look into why The item arrived broken (variation 3).",Complaint
+"I'm writing to complain about the fact that The item arrived broken.",Complaint
+"My problem is that The item arrived broken (variation 2).",Complaint
+"I'm dissatisfied because The item arrived broken (variation 1).",Complaint
+"Please provide the tracking code for my shipment. Please provide the tracking number.",Order Update
+"Need the tracking info, please. Please provide the tracking number (variation 1).",Order Update
+"Could you send me the tracking number for my order? Please provide the tracking number (variation 4).",Order Update
+"Requesting tracking information for: Please provide the tracking number.",Order Update
+"Can you provide the shipping details? Please provide the tracking number (variation 2).",Order Update
+"Checking the status of my shipment: Please provide the tracking number (variation 1).",Order Update
+"Need an update on delivery: Please provide the tracking number (v4)",Order Update
+"Following up on my order status. Please provide the tracking number.",Order Update
+"Top-notch service! Great service overall.",General Feedback
+"Excellent result! Great service overall (variation 1).",General Feedback
+"Happy with the service provided. Great service overall.",General Feedback
+"Very satisfied with how this turned out. Great service overall (variation 3).",General Feedback
+"I'm pleased with the outcome: Great service overall (variation 4).",General Feedback
+"Great job on this: Great service overall (variation 2).",General Feedback
+"Positive feedback regarding: Great service overall (v1)",General Feedback
+"Kudos to the team for: Great service overall.",General Feedback
+"Could you look into why No one is responding to my complaint? (v5)",Complaint
+"Still waiting for a reply regarding my issue: No one is responding to my complaint (variation 1).",Complaint
+"I'm writing to complain about the fact that No one is responding to my complaint (variation 2).",Complaint
+"My problem is that No one is responding to my complaint (v6)",Complaint
+"Can someone please address this? No one is responding to my complaint (variation 3).",Complaint
+"I haven't heard back about my complaint: No one is responding to my complaint.",Complaint
+"Is anyone looking into my complaint? No one is responding to my complaint (variation 4).",Complaint
+"Unfortunately, No one is responding to my complaint (variation 3).",Complaint
+"There seems to be a problem: No one is responding to my complaint (v2)",Complaint
+"This situation is unacceptable: No one is responding to my complaint (variation 1).",Complaint
+"I need to report an issue: No one is responding to my complaint.",Complaint
+"Regarding my recent experience: No one is responding to my complaint (variation 1).",Complaint
+"I'm dissatisfied because No one is responding to my complaint (v4)",Complaint
+"Could we schedule a time to talk about this? Can we schedule a call (v5).",Meeting Request
+"Let's set up a call to discuss. Can we schedule a call (variation 2).",Meeting Request
+"Need to schedule a discussion. Can we schedule a call.",Meeting Request
+"Proposing a meeting: Can we schedule a call (variation 1).",Meeting Request
+"I'd like to arrange a meeting regarding: Can we schedule a call.",Meeting Request
+"Can we find a time to connect? Can we schedule a call (variation 4).",Meeting Request
+"Are you available for a quick sync? Can we schedule a call (v3)",Meeting Request
+"What's your availability for a chat? Can we schedule a call (variation 2).",Meeting Request
+"Just wanted to say thanks: I appreciate the help (v5).",General Feedback
+"Your help was much appreciated! I appreciate the help (variation 2).",General Feedback
+"Positive feedback regarding: I appreciate the help (v6).",General Feedback
+"Grateful for your help. I appreciate the help (variation 1).",General Feedback
+"Thanks again for everything. I appreciate the help.",General Feedback
+"Really value your assistance with this. I appreciate the help (variation 4).",General Feedback
+"Just wanted to say thanks: I appreciate the help (v3)",General Feedback
+"Your help was much appreciated! I appreciate the help (variation 1).",General Feedback
+"I am requesting a refund because I want a refund (variation 3).",Complaint
+"Please process a reimbursement; I want a refund (v4)",Complaint
+"My problem is that I want a refund (variation 1).",Complaint
+"I require my money back since I want a refund.",Complaint
+"I'm writing to complain about the fact that I want a refund (variation 2).",Complaint
+"This situation is unacceptable: I want a refund (v1).",Complaint
+"Could you look into why I want a refund (variation 3).",Complaint
+"I'm dissatisfied because I want a refund.",Complaint
+"Checking the status of my shipment: Has my package shipped yet (v5).",Order Update
+"Has my item been dispatched yet? Has my package shipped yet (variation 2).",Order Update
+"Confirmation needed: Has the order been sent? Has my package shipped yet (v6).",Order Update
+"Has shipment occurred for my order? Has my package shipped yet.",Order Update
+"Checking if my package is on its way. Has my package shipped yet (variation 1).",Order Update
+"Could I get an update on my order? Has my package shipped yet (v4).",Order Update
+"Any news on when my order will arrive? Has my package shipped yet (variation 3).",Order Update
+"Following up on my order status. Has my package shipped yet (variation 2).",Order Update
+"This service level is poor: This is unacceptable service.",Complaint
+"I'm quite unhappy with this: This is unacceptable service (v2)",Complaint
+"This experience was very unsatisfactory: This is unacceptable service (variation 1).",Complaint
+"I need to report an issue: This is unacceptable service (variation 4).",Complaint
+"Unfortunately, This is unacceptable service.",Complaint
+"I'm dissatisfied because This is unacceptable service (variation 3).",Complaint
+"Can someone please address this? This is unacceptable service (variation 2).",Complaint
+"There seems to be a problem: This is unacceptable service (variation 1).",Complaint
+"Great job on this: Thanks for resolving the issue.",General Feedback
+"Satisfied with the resolution. Thanks for resolving the issue (v3)",General Feedback
+"Appreciate you resolving this quickly. Thanks for resolving the issue (variation 1).",General Feedback
+"Glad the issue is now fixed. Thanks for resolving the issue (variation 4).",General Feedback
+"Things worked out well, thanks. Thanks for resolving the issue.",General Feedback
+"Thanks for sorting out the problem. Thanks for resolving the issue (variation 2).",General Feedback
+"Positive feedback regarding: Thanks for resolving the issue (variation 3).",General Feedback
+"Thank you for the excellent support. Thanks for resolving the issue (v4).",General Feedback
+"I'm pleased with the outcome: I’m happy with the result (v5).",General Feedback
+"Excellent result! I’m happy with the result (variation 2).",General Feedback
+"Very satisfied with how this turned out. I’m happy with the result.",General Feedback
+"Happy with the service provided. I’m happy with the result (variation 1).",General Feedback
+"Top-notch service! I’m happy with the result (variation 4).",General Feedback
+"Great job on this: I’m happy with the result.",General Feedback
+"Satisfied with the resolution. I’m happy with the result (v2)",General Feedback
+"Kudos to the team for: I’m happy with the result (variation 3).",General Feedback
+"Need an update on delivery: Where is my order (v5).",Order Update
+"Where is my package currently? Where is my order (variation 2).",Order Update
+"What's the current location of my order? Where is my order (v6).",Order Update
+"Can you tell me the status of my delivery? Where is my order.",Order Update
+"Requesting the latest update on my order. Where is my order (variation 4).",Order Update
+"Checking the status of my shipment: Where is my order (v3).",Order Update
+"Any news on when my order will arrive? Where is my order (variation 1).",Order Update
+"Inquiring about order number [replace with placeholder]: Where is my order (variation 2).",Order Update
+"Awaiting delivery of my order. Still waiting for delivery (v5).",Order Update
+"Still haven't received my package. Still waiting for delivery (variation 2).",Order Update
+"When can I expect the delivery? Still waiting for delivery.",Order Update
+"Need an update on delivery: Still waiting for delivery (variation 1).",Order Update
+"Following up on my order status. Still waiting for delivery (variation 4).",Order Update
+"Can you provide the shipping details? Still waiting for delivery.",Order Update
+"Could I get an update on my order? Still waiting for delivery (v3)",Order Update
+"Where is my package currently? Still waiting for delivery (variation 2).",Order Update
+"Shall we use Zoom for our discussion? Let’s discuss this over Zoom (v5).",Meeting Request
+"Let's connect via Zoom. Let’s discuss this over Zoom (variation 2).",Meeting Request
+"Can we have a Zoom call? Let’s discuss this over Zoom.",Meeting Request
+"I'd like to arrange a meeting regarding: Let’s discuss this over Zoom (variation 1).",Meeting Request
+"Proposing a meeting: Let’s discuss this over Zoom (variation 3).",Meeting Request
+"Could we schedule a time to talk about this? Let’s discuss this over Zoom (v4).",Meeting Request
+"Are you available for a quick sync? Let’s discuss this over Zoom (variation 2).",Meeting Request
+"Need to schedule a discussion. Let’s discuss this over Zoom (v1).",Meeting Request
+"I'm quite unhappy with this: I’m very disappointed (v5).",Complaint
+"This experience was very unsatisfactory: I’m very disappointed (variation 2).",Complaint
+"My problem is that I’m very disappointed (v6)",Complaint
+"This service level is poor: I’m very disappointed.",Complaint
+"Unfortunately, I’m very disappointed (variation 1).",Complaint
+"I need to report an issue: I’m very disappointed (variation 3).",Complaint
+"Could you look into why I’m very disappointed (v4).",Complaint
+"Regarding my recent experience: I’m very disappointed (variation 2).",Complaint
+"Could I get an update on my order? I need a status update on my shipment (v5).",Order Update
+"Requesting the latest update on my order. I need a status update on my shipment (variation 2).",Order Update
+"What's the current location of my order? I need a status update on my shipment.",Order Update
+"Can you tell me the status of my delivery? I need a status update on my shipment (variation 1).",Order Update
+"Checking the status of my shipment: I need a status update on my shipment (variation 4).",Order Update
+"Following up on my order status. I need a status update on my shipment (v3).",Order Update
+"Need an update on delivery: I need a status update on my shipment (variation 2).",Order Update
+"Any news on when my order will arrive? I need a status update on my shipment (variation 1).",Order Update
+"Is tomorrow a good day to meet? Can we meet tomorrow (v5).",Meeting Request
+"Checking availability for tomorrow: Can we meet tomorrow (variation 2).",Meeting Request
+"Can we aim for a meeting tomorrow? Can we meet tomorrow.",Meeting Request
+"Let's set up a call to discuss. Can we meet tomorrow (variation 1).",Meeting Request
+"What's your availability for a chat? Can we meet tomorrow (variation 3).",Meeting Request
+"Could we schedule a time to talk about this? Can we meet tomorrow (v4).",Meeting Request
+"Are you available for a quick sync? Can we meet tomorrow (variation 2).",Meeting Request
+"Proposing a meeting: Can we meet tomorrow (v1).",Meeting Request
+"Confirming the details for our meeting: Please confirm our appointment (v5).",Meeting Request
+"Just double-checking our appointment: Please confirm our appointment (variation 2).",Meeting Request
+"Please confirm you're still available: Please confirm our appointment.",Meeting Request
+"Confirming our upcoming meeting: Please confirm our appointment (variation 4).",Meeting Request
+"Can we find a time to connect? Please confirm our appointment (v3).",Meeting Request
+"Need to schedule a discussion. Please confirm our appointment (variation 1).",Meeting Request
+"I'd like to arrange a meeting regarding: Please confirm our appointment.",Meeting Request
+"What's your availability for a chat? Please confirm our appointment (variation 4).",Meeting Request
+"Really value your assistance with this. Thank you for your support (v5).",General Feedback
+"Grateful for your help. Thank you for your support (variation 2).",General Feedback
+"Thanks again for everything. Thank you for your support (v6).",General Feedback
+"Just wanted to say thanks: Thank you for your support (variation 1).",General Feedback
+"Your help was much appreciated! Thank you for your support.",General Feedback
+"Positive feedback regarding: Thank you for your support (variation 4).",General Feedback
+"Thank you for the excellent support. Thank you for your support (v3)",General Feedback
+"Kudos to the team for: Thank you for your support (variation 2).",General Feedback
+"Checking if you're free to meet. Are you free for a meeting (v5).",Meeting Request
+"What time works best for you? Are you free for a meeting (variation 2).",Meeting Request
+"Do you have any openings for a meeting? Are you free for a meeting.",Meeting Request
+"Are you available for a quick sync? Are you free for a meeting (variation 1).",Meeting Request
+"Can we find a time to connect? Are you free for a meeting (variation 3).",Meeting Request
+"Let's set up a call to discuss. Are you free for a meeting (v4).",Meeting Request
+"Need to schedule a discussion. Are you free for a meeting (variation 2).",Meeting Request
+"I'd like to arrange a meeting regarding: Are you free for a meeting (v1).",Meeting Request
+"The item I received was defective: The item arrived broken (v5).",Complaint
+"There's damage to the product: The item arrived broken (variation 2).",Complaint
+"It arrived damaged: The item arrived broken (v6).",Complaint
+"This situation is unacceptable: The item arrived broken.",Complaint
+"Could you look into why The item arrived broken (variation 1).",Complaint
+"I'm writing to complain about the fact that The item arrived broken (variation 4).",Complaint
+"My problem is that The item arrived broken (v3).",Complaint
+"I'm dissatisfied because The item arrived broken (variation 2).",Complaint
+"Please provide the tracking code for my shipment. Please provide the tracking number (v5).",Order Update
+"Need the tracking info, please. Please provide the tracking number (variation 2).",Order Update
+"Could you send me the tracking number for my order? Please provide the tracking number.",Order Update
+"Requesting tracking information for: Please provide the tracking number (variation 1).",Order Update
+"Can you provide the shipping details? Please provide the tracking number (variation 3).",Order Update
+"Checking the status of my shipment: Please provide the tracking number (v4).",Order Update
+"Need an update on delivery: Please provide the tracking number (variation 2).",Order Update
+"Following up on my order status. Please provide the tracking number (v1).",Order Update
+"Top-notch service! Great service overall (v5).",General Feedback
+"Excellent result! Great service overall (variation 2).",General Feedback
+"Happy with the service provided. Great service overall (v6).",General Feedback
+"Very satisfied with how this turned out. Great service overall.",General Feedback
+"I'm pleased with the outcome: Great service overall (variation 1).",General Feedback
+"Great job on this: Great service overall (variation 4).",General Feedback
+"Positive feedback regarding: Great service overall (v3)",General Feedback
+"Kudos to the team for: Great service overall (variation 2).",General Feedback
+"Could you look into why No one is responding to my complaint? (v7)",Complaint
+"Still waiting for a reply regarding my issue: No one is responding to my complaint (variation 2).",Complaint
+"I'm writing to complain about the fact that No one is responding to my complaint (variation 3).",Complaint
+"My problem is that No one is responding to my complaint (v8)",Complaint
+"Can someone please address this? No one is responding to my complaint (variation 4).",Complaint
+"I haven't heard back about my complaint: No one is responding to my complaint (v1).",Complaint
+"Is anyone looking into my complaint? No one is responding to my complaint.",Complaint
+"Unfortunately, No one is responding to my complaint (variation 4).",Complaint
+"There seems to be a problem: No one is responding to my complaint (v3)",Complaint
+"This situation is unacceptable: No one is responding to my complaint (variation 2).",Complaint
+"I need to report an issue: No one is responding to my complaint (v1).",Complaint
+"Regarding my recent experience: No one is responding to my complaint (variation 3).",Complaint
+"I'm dissatisfied because No one is responding to my complaint (v2)",Complaint
+"Could we schedule a time to talk about this? Can we schedule a call (v7).",Meeting Request
+"Let's set up a call to discuss. Can we schedule a call (variation 3).",Meeting Request
+"Need to schedule a discussion. Can we schedule a call (v8).",Meeting Request
+"Proposing a meeting: Can we schedule a call (variation 2).",Meeting Request
+"I'd like to arrange a meeting regarding: Can we schedule a call (v1).",Meeting Request
+"Can we find a time to connect? Can we schedule a call.",Meeting Request
+"Are you available for a quick sync? Can we schedule a call (v4)",Meeting Request
+"What's your availability for a chat? Can we schedule a call (variation 3).",Meeting Request
+"Just wanted to say thanks: I appreciate the help (v7).",General Feedback
+"Your help was much appreciated! I appreciate the help (variation 3).",General Feedback
+"Positive feedback regarding: I appreciate the help (v8).",General Feedback
+"Grateful for your help. I appreciate the help (variation 2).",General Feedback
+"Thanks again for everything. I appreciate the help (v1).",General Feedback
+"Really value your assistance with this. I appreciate the help.",General Feedback
+"Just wanted to say thanks: I appreciate the help (v4)",General Feedback
+"Your help was much appreciated! I appreciate the help (variation 2).",General Feedback
+"I am requesting a refund because I want a refund.",Complaint
+"Please process a reimbursement; I want a refund (v1)",Complaint
+"My problem is that I want a refund (variation 2).",Complaint
+"I require my money back since I want a refund (v3).",Complaint
+"I'm writing to complain about the fact that I want a refund (variation 4).",Complaint
+"This situation is unacceptable: I want a refund (v2).",Complaint
+"Could you look into why I want a refund.",Complaint
+"I'm dissatisfied because I want a refund (variation 1).",Complaint
+"Checking the status of my shipment: Has my package shipped yet (v7).",Order Update
+"Has my item been dispatched yet? Has my package shipped yet (variation 3).",Order Update
+"Confirmation needed: Has the order been sent? Has my package shipped yet (variation 3).",Order Update
+
+

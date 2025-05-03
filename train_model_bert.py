@@ -6,7 +6,7 @@ from sentence_transformers import SentenceTransformer
 import pickle
 
 # === 1. Load dataset ===
-df = pd.read_csv("intents_expanded.csv")
+df = pd.read_csv("intents_augmented.csv")
 
 # === 2. Encode labels ===
 label_encoder = LabelEncoder()
