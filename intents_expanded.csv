@@ -1,0 +1,121 @@
+text,label
+I want a refund immediately. (case 1),Complaint
+This is totally unacceptable service. (case 1),Complaint
+I am not happy with the product. (case 1),Complaint
+The delivery was late again. (case 1),Complaint
+Refund my order now. (case 1),Complaint
+I had a terrible experience. (case 1),Complaint
+Customer support ignored my request. (case 1),Complaint
+This item arrived broken. (case 1),Complaint
+I received the wrong product. (case 1),Complaint
+I am very disappointed. (case 1),Complaint
+I want a refund immediately. (case 2),Complaint
+This is totally unacceptable service. (case 2),Complaint
+I am not happy with the product. (case 2),Complaint
+The delivery was late again. (case 2),Complaint
+Refund my order now. (case 2),Complaint
+I had a terrible experience. (case 2),Complaint
+Customer support ignored my request. (case 2),Complaint
+This item arrived broken. (case 2),Complaint
+I received the wrong product. (case 2),Complaint
+I am very disappointed. (case 2),Complaint
+I want a refund immediately. (case 3),Complaint
+This is totally unacceptable service. (case 3),Complaint
+I am not happy with the product. (case 3),Complaint
+The delivery was late again. (case 3),Complaint
+Refund my order now. (case 3),Complaint
+I had a terrible experience. (case 3),Complaint
+Customer support ignored my request. (case 3),Complaint
+This item arrived broken. (case 3),Complaint
+I received the wrong product. (case 3),Complaint
+I am very disappointed. (case 3),Complaint
+Where is my order? (case 1),Order Update
+Please provide the tracking number. (case 1),Order Update
+When will it be delivered? (case 1),Order Update
+Any update on my shipment? (case 1),Order Update
+Has my package shipped yet? (case 1),Order Update
+I'm waiting for my delivery. (case 1),Order Update
+What is the current status of my order? (case 1),Order Update
+Still haven’t received my item. (case 1),Order Update
+Track my order please. (case 1),Order Update
+Order #12345 hasn’t arrived. (case 1),Order Update
+Where is my order? (case 2),Order Update
+Please provide the tracking number. (case 2),Order Update
+When will it be delivered? (case 2),Order Update
+Any update on my shipment? (case 2),Order Update
+Has my package shipped yet? (case 2),Order Update
+I'm waiting for my delivery. (case 2),Order Update
+What is the current status of my order? (case 2),Order Update
+Still haven’t received my item. (case 2),Order Update
+Track my order please. (case 2),Order Update
+Order #12345 hasn’t arrived. (case 2),Order Update
+Where is my order? (case 3),Order Update
+Please provide the tracking number. (case 3),Order Update
+When will it be delivered? (case 3),Order Update
+Any update on my shipment? (case 3),Order Update
+Has my package shipped yet? (case 3),Order Update
+I'm waiting for my delivery. (case 3),Order Update
+What is the current status of my order? (case 3),Order Update
+Still haven’t received my item. (case 3),Order Update
+Track my order please. (case 3),Order Update
+Order #12345 hasn’t arrived. (case 3),Order Update
+Can we schedule a call? (case 1),Meeting Request
+Let's set up a meeting. (case 1),Meeting Request
+Are you free to talk tomorrow? (case 1),Meeting Request
+Let’s discuss over Zoom. (case 1),Meeting Request
+Please confirm our appointment. (case 1),Meeting Request
+When are you available for a meeting? (case 1),Meeting Request
+Book a call for this week. (case 1),Meeting Request
+I’d like to arrange a discussion. (case 1),Meeting Request
+Suggest a meeting time. (case 1),Meeting Request
+Let's meet virtually. (case 1),Meeting Request
+Can we schedule a call? (case 2),Meeting Request
+Let's set up a meeting. (case 2),Meeting Request
+Are you free to talk tomorrow? (case 2),Meeting Request
+Let’s discuss over Zoom. (case 2),Meeting Request
+Please confirm our appointment. (case 2),Meeting Request
+When are you available for a meeting? (case 2),Meeting Request
+Book a call for this week. (case 2),Meeting Request
+I’d like to arrange a discussion. (case 2),Meeting Request
+Suggest a meeting time. (case 2),Meeting Request
+Let's meet virtually. (case 2),Meeting Request
+Can we schedule a call? (case 3),Meeting Request
+Let's set up a meeting. (case 3),Meeting Request
+Are you free to talk tomorrow? (case 3),Meeting Request
+Let’s discuss over Zoom. (case 3),Meeting Request
+Please confirm our appointment. (case 3),Meeting Request
+When are you available for a meeting? (case 3),Meeting Request
+Book a call for this week. (case 3),Meeting Request
+I’d like to arrange a discussion. (case 3),Meeting Request
+Suggest a meeting time. (case 3),Meeting Request
+Let's meet virtually. (case 3),Meeting Request
+Thank you for your support. (case 1),General Feedback
+I appreciate your help. (case 1),General Feedback
+Great service overall. (case 1),General Feedback
+I’m satisfied with the experience. (case 1),General Feedback
+Thanks for resolving the issue. (case 1),General Feedback
+Support was very responsive. (case 1),General Feedback
+Everything went smoothly. (case 1),General Feedback
+Appreciate the quick turnaround. (case 1),General Feedback
+Very happy with the result. (case 1),General Feedback
+Thanks a lot! (case 1),General Feedback
+Thank you for your support. (case 2),General Feedback
+I appreciate your help. (case 2),General Feedback
+Great service overall. (case 2),General Feedback
+I’m satisfied with the experience. (case 2),General Feedback
+Thanks for resolving the issue. (case 2),General Feedback
+Support was very responsive. (case 2),General Feedback
+Everything went smoothly. (case 2),General Feedback
+Appreciate the quick turnaround. (case 2),General Feedback
+Very happy with the result. (case 2),General Feedback
+Thanks a lot! (case 2),General Feedback
+Thank you for your support. (case 3),General Feedback
+I appreciate your help. (case 3),General Feedback
+Great service overall. (case 3),General Feedback
+I’m satisfied with the experience. (case 3),General Feedback
+Thanks for resolving the issue. (case 3),General Feedback
+Support was very responsive. (case 3),General Feedback
+Everything went smoothly. (case 3),General Feedback
+Appreciate the quick turnaround. (case 3),General Feedback
+Very happy with the result. (case 3),General Feedback
+Thanks a lot! (case 3),General Feedback
