@@ -13,11 +13,11 @@ This project is a real-time business message classifier that uses BERT embedding
 ## 🧠 How It Works
 
 ```mermaid
-graph TD;
+graph TD
     A[User Input Message] --> B[BERT Embedding (MiniLM)]
     B --> C[PyTorch Classifier]
     C --> D[Predicted Intent + Confidence]
-```
+
 
 - **Embeddings**: Sentence-Transformer `all-MiniLM-L6-v2`
 - **Classifier**: Simple `nn.Linear` model trained with `CrossEntropyLoss`
