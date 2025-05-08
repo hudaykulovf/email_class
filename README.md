@@ -1,59 +1,63 @@
-# 📧 Business Intent Classifier (BERT + PyTorch)
+# Business Intent Classifier (BERT + PyTorch)
 
-This project is a real-time business message classifier that uses BERT embeddings and PyTorch to categorize text into intents like:
+This is a real-time message classifier that uses BERT embeddings and PyTorch to categorize business messages into:
 
-- 🟥 Complaint  
-- 📦 Order Update  
-- 📅 Meeting Request  
-- 💬 General Feedback  
+- Complaint  
+- Order Update  
+- Meeting Request  
+- General Feedback  
 
----
+## How It Works
 
-## 🧠 How It Works
-
-mermaid
+```mermaid
 graph TD
-    A[User Input Message] --> B[BERT Embedding (MiniLM)]
+    A[User Input] --> B[BERT Embedding]
     B --> C[PyTorch Classifier]
-    C --> D[Predicted Intent + Confidence]
+    C --> D[Predicted Intent]
+```
 
-- **Embeddings**: Sentence-Transformer `all-MiniLM-L6-v2`  
-- **Classifier**: Simple `nn.Linear` model trained with `CrossEntropyLoss`  
-- **Interface**: Built with [Gradio](https://gradio.app/) for fast testing and deployment  
+## File Structure
 
----
-
-## 📦 File Structure
-
+```text
 email-intent-pytorch/
-├── intents_expanded.csv       # Training data (200+ labeled samples)
-├── train_model_bert.py        # Training script
-├── app_bert.py                # Gradio app interface
-├── model_bert.pth             # Trained PyTorch model
-├── encoder.pkl                # Label encoder (sklearn)
-├── requirements.txt           # Python dependencies
-└── README.md                  # This file
+├── app_bert.py
+├── train_model_bert.py
+├── model_bert.pth
+├── encoder.pkl
+├── intents_expanded.csv
+├── requirements.txt
+└── README.md
+```
 
----
+## Run Locally
 
-## 🚀 Run Locally
-
-1. Install dependencies:
+1. Install dependencies
 
     ```bash
     pip install -r requirements.txt
     ```
 
-1. Train the model:
+1. Train the model
 
     ```bash
     python train_model_bert.py
     ```
 
-1. Launch the app:
+1. Launch the app
 
     ```bash
     python app_bert.py
     ```
 
-Then open [http://localhost:7860](http://localhost:7860) in your browser.
+Go to [http://localhost:7860](http://localhost:7860) in your browser.
+
+## Tech Stack
+
+- sentence-transformers  
+- PyTorch  
+- scikit-learn  
+- Gradio
+
+## Author
+
+Made by Farrukh.
